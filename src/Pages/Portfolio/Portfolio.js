@@ -27,7 +27,7 @@ const Portfolio = ({ portfolio }) => {
           <p>{description}</p>
           <div className="card-actions justify-end">
             <a href={gitHubLink} className="portfolio-button-github">Github</a>
-            <a href={liveLink} className="portfolio-button-site">Visit Site</a>
+            <a href={liveLink} className="portfolio-button-site">Live Demo</a>
           </div>
         </div>
       </div>

@@ -1,36 +1,36 @@
 import React from "react";
-import p1 from "../../assets/Portfolio/Arts.jpg";
-import p2 from "../../assets/Portfolio/Arts.jpg";
-import p3 from "../../assets/Portfolio/Arts.jpg";
-import p4 from "../../assets/Portfolio/Arts.jpg";
-import p5 from "../../assets/Portfolio/Arts.jpg";
-import p6 from "../../assets/Portfolio/Arts.jpg";
+import p1 from "../../assets/Portfolio/weather-app.jpeg";
+import p2 from "../../assets/Portfolio/dreamcar.png";
+import p3 from "../../assets/Portfolio/bubger.jpg";
+import p4 from "../../assets/Portfolio/bubger.jpg";
+import p5 from "../../assets/Portfolio/bubger.jpg";
+import p6 from "../../assets/Portfolio/bubger.jpg";
 import Portfolio from "./Portfolio";
 const PortfolioList = () => {
   const portfolioList = [
     {
       image: p1,
-      title: "Burger Freak Restaurant",
+      title: "Weather App",
       description:
-        "This is a website I made for a burger joint. I used HTML, CSS, Javascript, and React for this project. In the backend, I used Express and Nodejs",
+        "This is a mini project I made for a Weather App. I React for this project.",
       stack1: "React",
       stack2: "Javascript",
       stack3: "Tailwind",
 
-      gitHubLink: "https://github.com/cuongvongocfe",
-      liveLink: "https://github.com/cuongvongocfe",
+      gitHubLink: "https://github.com/cuongvongocfe/Weather-app.git",
+      liveLink: "https://weather-app-cuongvongocfe.vercel.app/",
     },
     {
       image: p2,
-      title: "Burger Freak Restaurant",
+      title: "Dream Car",
       description:
-        "This is a website I made for a burger joint. I used HTML, CSS, Javascript, and React for this project. In the backend, I used Express and Nodejs",
+        "This is a website I made for a seller car. I used HTML, SCSS, Javascript, and React for this project.",
       stack1: "React",
       stack2: "Javascript",
-      stack3: "Tailwind",
+      stack3: "SCSS",
 
-      gitHubLink: "https://github.com/cuongvongocfe",
-      liveLink: "https://github.com/cuongvongocfe",
+      gitHubLink: "https://github.com/cuongvongocfe/DreamCar",
+      liveLink: "https://dream-car-eta.vercel.app/",
     },
     {
       image: p3,
