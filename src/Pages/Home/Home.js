@@ -9,7 +9,7 @@ const Home = () => {
         </div>
         <div className="w-[300px] lg:w-full flex flex-col justify-center items-center">
       <h1 className="lg:text-5xl text-secondary font-bold">Xin chào, tôi là Cường</h1>
-      <p className="py-6 lg:text-lg text-sm font-bold">Tôi là một lập trình viên mới và mong muốn tìm kiếm các dự án liên quan đến các ngôn ngữ react, với khát khao có thể giải quyết các vấn đề thực tế và đưa doanh nghiệp và dự án được phát triển cao và xa hơn, tôi mong sẽ góp một phần công sức của mình để giải quyết các vấn đề nan giải của dự án củ cũng như phát triển những dự án tìm năng.</p>
+      <p className="py-6 lg:text-lg text-sm font-bold">Tôi là một lập trình viên mới và mong muốn tìm kiếm các dự án liên quan đến các ngôn ngữ react, với khát khao có thể giải quyết các vấn đề thực tế và đưa doanh nghiệp và dự án được phát triển cao và xa hơn, tôi mong sẽ góp một phần công sức của mình để giải quyết các vấn đề nan giải của dự án cũ cũng như phát triển những dự án tìm năng.</p>
       </div>
       </div>
      
